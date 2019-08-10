@@ -1,14 +1,12 @@
 ﻿using System;
-using StackExchange.Redis;
 
-namespace ConsoleApp1
+namespace Oraculo
 {
     class Program
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Oraculo em execução !!!");
         }
-
     }
 }
